@@ -14,14 +14,14 @@ const geistMono = Geist_Mono({
 export const metadata = {
   title: "Calculadora de Fechas | Diferencia entre dos fechas en años, meses y días",
   description: "Calcula la diferencia exacta entre dos fechas. Obtén años, meses, semanas y días entre cualquier intervalo de tiempo de forma rápida y gratuita.",
-  metadataBase: new URL("https://calculadora-fechas.monica-camacho.com"),
+  metadataBase: new URL("https://calculadora-fechas.vercel.app"),
   alternatives: {
     canonical: "/",
   },
   openGraph: {
     title: "Calculadora de Fechas | Diferencia entre dos fechas en años, meses y días",
     description: "Calcula la diferencia exacta entre dos fechas. Obtén años, meses, semanas y días entre cualquier intervalo de tiempo de forma rápida y gratuita.",
-    url: "https://calculadora-fechas.monica-camacho.com",
+    url: "https://calculadora-fechas.vercel.app",
     siteName: "Calculadora de Fechas Mónica Camacho",
     locale: "es_ES",
     type: "website",
